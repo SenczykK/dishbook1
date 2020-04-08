@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dishbook1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dishbook1/static/js/main.58867edf.chunk.js",
+    "main.js.map": "/dishbook1/static/js/main.58867edf.chunk.js.map",
+    "runtime-main.js": "/dishbook1/static/js/runtime-main.1e9b6ebe.js",
+    "runtime-main.js.map": "/dishbook1/static/js/runtime-main.1e9b6ebe.js.map",
+    "static/js/2.b32850cd.chunk.js": "/dishbook1/static/js/2.b32850cd.chunk.js",
+    "static/js/2.b32850cd.chunk.js.map": "/dishbook1/static/js/2.b32850cd.chunk.js.map",
+    "index.html": "/dishbook1/index.html",
+    "precache-manifest.c73aac0d3bfe92b0476079e5c2ff109f.js": "/dishbook1/precache-manifest.c73aac0d3bfe92b0476079e5c2ff109f.js",
+    "service-worker.js": "/dishbook1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dishbook1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b32850cd.chunk.js.LICENSE.txt": "/dishbook1/static/js/2.b32850cd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dishbook1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e9b6ebe.js",
+    "static/js/2.b32850cd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.58867edf.chunk.js"
+  ]
+}
